@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php
-require_once 'db_config.php';
+require_once 'includes/db_config.php';
 ?>
 <html lang="en">
 
@@ -56,78 +56,17 @@ require_once 'db_config.php';
 
       <div class="row">
 
-        <div class="col-lg-3">
+        <?php include 'includes/location.php';?>
 
-          <h1 class="my-4">Locaties</h1>
-          <div class="list-group">
-            <a href="#" class="list-group-item">hellevoetsluis</a>
-            <a href="#" class="list-group-item">spijkenisse</a>
-            <a href="#" class="list-group-item">rotterdam</a>
-          </div>
-
-        </div>
         <!-- /.col-lg-3 -->
 
         <div class="col-lg-9">
 
           <div class="row">
 
-              <?php
-                    try{
-                        $sQuery= "SELECT * FROM room INNER JOIN location on location.id = room.location_id WHERE location_id = 2";
-                        $oStmt= $db->prepare($sQuery);
-                        $oStmt->execute();
-
-		if($oStmt->rowCount()>0)
-	{
-		echo '<table class="table" >';
-		echo '<thead>';
-		echo '<td>city</td>';
-		echo '<td>adres</td>';
-		echo'</thead>';
-		while($aRow = $oStmt-> fetch(PDO::FETCH_ASSOC))
-		{
-			echo '<tr>';
-			echo '<td>'.$aRow{'name'}.'</td>';
-			echo '<td>'.$aRow{'adres'}.'</td>';
-			echo '</tr>';
-		}
-		echo '</table.';
-	}
-	else
-	{
-		echo 'Helaas, Geen Gegevens Bekend';
-	}
-	}
-catch(PDOException $e)
-	{
-		$sMsg ='<p>
-		Regelnummer:'.$e->getLine().'<br/>
-		Bestand:.'.$e->getFile().'<br/>
-		Foutmelding:'.$e->getMessage().'
-		</p>';
-		trigger_error($sMsg);
-	}
-	$db = null;
-	?>
-
-            <div class="col-lg-4 col-md-6 mb-4">
-              <div class="card h-100">
-                <a href="#"><img class="card-img-top" src="http://placehold.it/700x400" alt=""></a>
-                <div class="card-body">
-                  <h4 class="card-title">
-                    <a href="#">Item One</a>
-                  </h4>
-                  <h5>$24.99</h5>
-                  <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet numquam aspernatur!</p>
-                </div>
-                <div class="card-footer">
-                  <small class="text-muted">&#9733; &#9733; &#9733; &#9733; &#9734;</small>
-                </div>
-              </div>
-            </div>
-              <?php ?>
-
+          <div>
+              <?php include 'includes/adresses.php';?>
+          </div>
           </div>
           <!-- /.row -->
 

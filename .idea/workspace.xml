@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="baca1296-eee5-43ee-bc94-2686babd5c07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/admin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/all.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/navbar.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/includes/room.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reservation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/adresses.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/adresses.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/empathon.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/empathon.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/all.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/all.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +17,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="39" selection-end-line="69" />
+            <state relative-caret-position="255">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <element signature="e#2231#2237#0#HTML" expanded="true" />
               </folding>
@@ -34,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reservation.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+            <state relative-caret-position="459">
+              <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="29" />
               <folding>
                 <element signature="e#2277#2283#0#HTML" expanded="true" />
               </folding>
@@ -44,10 +39,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/empathon.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/admin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="318">
+              <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
               <folding>
                 <element signature="e#1188#1194#0#HTML" expanded="true" />
               </folding>
@@ -58,8 +62,35 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/includes/all.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+            <state relative-caret-position="408">
+              <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/room.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="98" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="98" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/try/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="33" column="4" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/try/edit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="95" column="10" lean-forward="true" selection-start-line="95" selection-start-column="10" selection-end-line="95" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -67,8 +98,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/includes/location.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="2" lean-forward="true" selection-start-line="3" selection-end-line="28" selection-end-column="2" />
+            <state relative-caret-position="85">
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -84,7 +115,6 @@
         <option value="$PROJECT_DIR$/includes/settings.php" />
         <option value="$USER_HOME$/Desktop/htdocs/hydroli/db_config.php" />
         <option value="$PROJECT_DIR$/db_config.php" />
-        <option value="$PROJECT_DIR$/css/empathon.css" />
         <option value="$USER_HOME$/php7-vagrant/public/week3/index.php" />
         <option value="$PROJECT_DIR$/master/config.php" />
         <option value="$PROJECT_DIR$/try/includes/database.php" />
@@ -95,8 +125,9 @@
         <option value="$PROJECT_DIR$/includes/adresses.php" />
         <option value="$PROJECT_DIR$/includes/room.php" />
         <option value="$PROJECT_DIR$/reservation.php" />
-        <option value="$PROJECT_DIR$/admin.php" />
         <option value="$PROJECT_DIR$/includes/navbar.php" />
+        <option value="$PROJECT_DIR$/admin.php" />
+        <option value="$PROJECT_DIR$/css/empathon.css" />
         <option value="$PROJECT_DIR$/includes/all.php" />
       </list>
     </option>
@@ -179,12 +210,12 @@
       <workItem from="1547557017461" duration="5669000" />
       <workItem from="1548000087472" duration="634000" />
       <workItem from="1548147529941" duration="1296000" />
-      <workItem from="1548232371806" duration="9407000" />
+      <workItem from="1548232371806" duration="11738000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17006000" />
+    <option name="totallyTimeSpent" value="19337000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -327,13 +358,6 @@
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.975/index.php" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.501/index.php" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.679/music-data.php" />
-    <entry file="file://$PROJECT_DIR$/css/empathon.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.833/index.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -432,23 +456,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/try/edit.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5">
-          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/try/detail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/try/create.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-345">
@@ -470,33 +477,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/room.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reservation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-          <folding>
-            <element signature="e#2277#2283#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="39" selection-end-line="69" />
-          <folding>
-            <element signature="e#2231#2237#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/includes/navbar.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -504,27 +484,82 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/try/detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#2231#2237#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try/edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="95" column="10" lean-forward="true" selection-start-line="95" selection-start-column="10" selection-end-line="95" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/location.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="33" column="4" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reservation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="29" />
+          <folding>
+            <element signature="e#2277#2283#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/room.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="98" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/empathon.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="318">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
           <folding>
             <element signature="e#1188#1194#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/location.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="2" lean-forward="true" selection-start-line="3" selection-end-line="28" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/includes/all.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+        <state relative-caret-position="408">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
         </state>
       </provider>
     </entry>

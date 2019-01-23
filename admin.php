@@ -30,8 +30,7 @@ require_once 'includes/db_config.php';
 <!-- Page Content -->
 <div class="container">
 
-
-    <!-- /.row -->
+    <?php include 'includes/all.php';?>
 
 </div>
 <!-- /.col-lg-9 -->
